@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="BatteryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrafficLightTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

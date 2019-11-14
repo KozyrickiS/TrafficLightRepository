@@ -5,7 +5,7 @@ using TrafficLight.Lib.Enums;
 
 namespace TrafficLight.Lib
 {
-    interface IBattery
+     public interface IBattery
     {
         void SwitchOn();
         void SwitchOff();
