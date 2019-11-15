@@ -59,9 +59,9 @@ namespace TrafficLight.Lib.Tests
         }
 
         [Test]
-        [TestCase(Traffic_Color.Green, 6)]
-        [TestCase(Traffic_Color.Yellow, 30)]
-        [TestCase(Traffic_Color.Green, 10)]
+        [TestCase(Traffic_Color.Green, 2)]
+        [TestCase(Traffic_Color.Yellow, 2)]
+        [TestCase(Traffic_Color.Red, 2)]
         public void Test_Blink_Color_By_Time(Traffic_Color color, int time_To_Blink)
         {
             int delay_Time = 1;

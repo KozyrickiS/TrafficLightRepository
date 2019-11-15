@@ -81,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TrafficLight.Lib\TrafficLight.Lib.csproj">
-      <Project>{f34b8382-b769-4142-90b7-84b37d01f2aa}</Project>
+      <Project>{4fe9ae3c-2fbe-4135-b9c4-bd51c6f8afc3}</Project>
       <Name>TrafficLight.Lib</Name>
     </ProjectReference>
   </ItemGroup>
